@@ -350,11 +350,12 @@ a,a:hover,a:focus,button,button:focus {
 
 .news-blocks .prev-news{
   width:200px;
-  height:55px;
+  height:48px;
   background-color:#9bbb58;
   margin: 5px 0px;
   border-radius: 4px;
   transition: .5s;
+  padding-top: 10px;
 }
 .news-blocks .prev-news a{
   color: #fff;
